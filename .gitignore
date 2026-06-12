@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Allow the evidence file and images directory
+!evidence.md
+!images/
+!images/*
+!.gitignore
