@@ -32,7 +32,8 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -m ec2 -a 
 ### Hình ảnh minh chứng:
 **Trạng thái CloudWatch Agent**
 
-![Trạng thái CloudWatch Agent](images/cw-agent-status.png)
+<img width="1215" height="618" alt="image" src="https://github.com/user-attachments/assets/a22f4751-2219-4f9c-8c1d-7f5791b51e8b" />
+
 
 ---
 
@@ -52,4 +53,5 @@ Thiết lập cảnh báo CloudWatch Alarm giám sát chỉ số sử dụng CPU
 ### Hình ảnh minh chứng:
 **Cấu hình CPU Alarm trên CloudWatch**
 
-![Cấu hình CPU Alarm trên CloudWatch](images/cpu-alarm-config.png)
+<img width="1550" height="694" alt="image" src="https://github.com/user-attachments/assets/234adec0-cdbd-44f3-b307-b9dbb3a84eed" />
+
